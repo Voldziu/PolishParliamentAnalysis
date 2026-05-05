@@ -3,6 +3,7 @@ This repo contains an analysis of votings from Term X  (2023-2027) of the Sejm o
 
 The data was obtained by scraping the official website of the Sejm, and then processed and analyzed using Python. The analysis includes various aspects of the votings, such as voting patterns, party cohesion, and individual MP behavior.
 
+![Poster](poster.png)
 
 # How to run the code
 
